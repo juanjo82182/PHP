@@ -1,0 +1,45 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+}
+
+.menu {
+  max-width: 80vw;
+  margin-top: 40px;
+}
+
+.info {
+  background-color: #e0e0e0;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  padding: 40px;
+}
+
+.contenido {
+  text-align: center;
+  margin: auto;
+  max-width: 300px;
+}
+
+.timer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.timer-box {
+    display: inline-block;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 18px;
+}

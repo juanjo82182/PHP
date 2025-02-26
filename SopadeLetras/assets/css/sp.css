@@ -1,0 +1,28 @@
+td.selected {
+  background-color: yellow;
+}
+
+.highlight {
+  text-decoration: underline;
+  background-color: lightblue;
+}
+td.found {
+    background-color: green;
+    text-decoration: underline;
+  }
+
+  td.highlight {
+    background-color: rgb(7, 220, 248);
+  }
+
+  #show-words-btn{
+    margin-left: 15px;
+  }
+  .word.text-success {
+    color: green; /* Cambia el color del texto a verde */
+    text-decoration: underline; /* Subraya el texto */
+}
+#reload-words-btn{
+  margin-left: 95px;
+  margin-top: -46px;
+}
