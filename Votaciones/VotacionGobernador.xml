@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Informe.xsl" type="text/xsl"?>
+<!DOCTYPE votaciones SYSTEM "VotacionG.dtd">
+
+<votaciones>
+
+        <departamento region="Andina">
+            <nombre >Cundinamarca</nombre>
+            <inscritos>600</inscritos>
+            <partido1>100</partido1>
+            <partido2>120</partido2>
+            <partido3>180</partido3>
+            <blanco>200</blanco>
+        </departamento>
+
+        <departamento region="Andina">
+            <nombre>Antioquia</nombre>
+            <inscritos>900</inscritos>
+            <partido1>300</partido1>
+            <partido2>110</partido2>
+            <partido3>120</partido3>
+            <blanco>180</blanco>
+        </departamento>
+
+        <departamento region="Pacifica">
+            <nombre>Valle</nombre>
+            <inscritos>890</inscritos>
+            <partido1>130</partido1>
+            <partido2>200</partido2>
+            <partido3>380</partido3>
+            <blanco>130</blanco>
+        </departamento>
+
+        <departamento region="Orinoquia">
+            <nombre>Arauca</nombre>
+            <inscritos>690</inscritos>
+            <partido1>140</partido1>
+            <partido2>108</partido2>
+            <partido3>130</partido3>
+            <blanco>120</blanco>
+        </departamento>
+
+        <departamento region="Caribe">
+            <nombre>Atlantico</nombre>
+            <inscritos>790</inscritos>
+            <partido1>110</partido1>
+            <partido2>112</partido2>
+            <partido3>180</partido3>
+            <blanco>105</blanco>
+        </departamento>
+
+</votaciones>

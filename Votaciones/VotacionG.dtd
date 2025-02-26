@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT votaciones (departamento*)>
+<!ELEMENT departamento (nombre|inscritos|partido1|partido2|partido3|blanco)*>
+<!ATTLIST departamento region (Andina|Caribe|Pacifica|Orinoquia) #REQUIRED>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT inscritos (#PCDATA)>
+<!ELEMENT partido1 (#PCDATA)>
+<!ELEMENT partido2 (#PCDATA)>
+<!ELEMENT partido3 (#PCDATA)>
+<!ELEMENT blanco (#PCDATA)>
